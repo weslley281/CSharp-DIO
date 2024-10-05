@@ -1,0 +1,44 @@
+# Compiled source files
+*.dll
+*.exe
+*.so
+*.dylib
+*.o
+*.a
+*.pdb
+*.dll
+
+# Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.vspscc
+.vscode/
+
+# Package files
+*.nupkg
+*.snupkg
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+.idea_modules/
+
+# Other files
+*.swp
+*.lock.json
+project.lock.json
